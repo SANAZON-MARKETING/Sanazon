@@ -1,1 +1,3 @@
-# Sanazon
+rules
+demonstrations
+reward
